@@ -1,0 +1,22 @@
+body {
+      color: #24070b;
+    text-align: center;
+}
+
+header{
+    background-color: rgb(252, 149, 15);
+    text-align: center;
+    padding: 9px;
+}
+.card {
+    border: 2px solid #ff4500;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    background: white;
+    margin-bottom: 20px;
+}
+
+.card img {
+    max-width: 100%;
+}
